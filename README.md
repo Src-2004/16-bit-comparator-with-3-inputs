@@ -3,7 +3,10 @@ This repository presents the complete design, simulation, and analysis of a 16-b
 
 Project Objective:
 To develop a high-speed, low-latency digital comparator that compares 16-bit binary numbers and outputs:
- 1.The largest value among A, B, and C
- 2.The flag or identifier of the maximum input (e.g., Max = A, Max = B, or Max = C)
- 3.Optional: equality flags in case two or more values are equal
+
+The largest value among A, B, and C
+
+The flag or identifier of the maximum input (e.g., Max = A, Max = B, or Max = C)
+
+Optional: equality flags in case two or more values are equal
 
